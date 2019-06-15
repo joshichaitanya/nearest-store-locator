@@ -12,9 +12,10 @@ step 2: npm run dev
 
 Then project automatically get opened in new tab, else hit : http://localhost:3000
 
+## API Key
 
 Free Login to https://my.locationiq.com/dashboard/?firstLogin=1
 
 To obtain API key.
 
-Put that into config.js
+Put that API key inside config.js (root level)
