@@ -1,0 +1,21 @@
+input, label {
+    margin: 15px 15px;
+    width: 90%;
+    border: 1px solid black;
+    height: 20px;
+  }
+  
+  .form-group {
+    margin: 30px auto;
+    width: 400px;
+    padding: 10px;
+    border: 3px solid gray
+  }
+  .submit-button {
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+  }
